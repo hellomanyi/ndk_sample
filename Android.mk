@@ -5,7 +5,7 @@ include $(CLEAR_VARS)
 LOCAL_MODULE := hello-ndk
 #LOCAL_MODULE_FILENAME :=
 
-LOCAL_SRC_FILES := Hello-ndk.c
+LOCAL_SRC_FILES := hello-ndk.c
 
 #LOCAL_C_INCLUDES := 
 
