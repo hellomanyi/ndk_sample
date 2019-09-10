@@ -11,7 +11,7 @@ APP_PLATFORM := android-18
 APP_PROJECT_PATH := .
 
 # how to strip libraries
-APP_STRIP_MODE := none
+#APP_STRIP_MODE := none
 
 # wrap.sh
 #APP_WRAP_SH

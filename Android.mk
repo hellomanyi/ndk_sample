@@ -9,6 +9,8 @@ LOCAL_SRC_FILES := hello-ndk.c
 
 #LOCAL_C_INCLUDES := 
 
+LOCAL_CFLAGS := -fvisibility=hidden
+
 #LOCAL_STATIC_LIBRARIES :=
 #LOCAL_SHARED_LIBRARIES :=
 #LOCAL_LDLIBS := 
